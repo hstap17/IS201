@@ -7,15 +7,18 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
 a {
     font-size: 16px;
     color: rgb(53, 52, 51);
 }
+
 li {
     font-size: 18px;
     font-style: italic;
     font-weight: normal;
 }
+
 .resumeListHeading {
     font-weight: bold;
     font-style: normal;
@@ -24,3 +27,9 @@ li {
 .underline {text-decoration: underline;}
 .italicize {font-style: italic;}
 .anchor {position: fixed;}
+
+ol {
+    display: inline-block;
+    text-align: left;
+    list-style-position: inside;
+}
