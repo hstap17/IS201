@@ -1,0 +1,26 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+    color: rgb(83, 46, 4);
+    background-image: url('../assets/img/background.jpg');
+    background-position: top right;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+a {
+    font-size: 16px;
+    color: rgb(53, 52, 51);
+}
+li {
+    font-size: 18px;
+    font-style: italic;
+    font-weight: normal;
+}
+.resumeListHeading {
+    font-weight: bold;
+    font-style: normal;
+}
+.center {text-align: center;}
+.underline {text-decoration: underline;}
+.italicize {font-style: italic;}
+.anchor {position: fixed;}
